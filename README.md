@@ -6,3 +6,8 @@ Il progetto è stato svolto in team.
 Utilizzato:
  - HTML per front-end.
  - Java Spring e MySQL per back-end.
+
+
+
+## Startup Front-end
+- launch `index.html`
